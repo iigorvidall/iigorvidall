@@ -31,11 +31,26 @@
 <br/>
 <br/>
 
-<div align="center">
-  <a href="https://github.com/iigorvidall">
- <img height="180em" width="390em" src="https://github-readme-stats.vercel.app/api?username=iigorvidall&show_icons=true&theme=shadow_red&include_all_commits=true&count_private=true"/>
-  <img height="180em" width ="390em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iigorvidall&layout=compact&langs_count=7&theme=shadow_red"/>
-</div>
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=iigorvidall&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=iigorvidall&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
+
 
 
 
