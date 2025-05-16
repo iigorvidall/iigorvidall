@@ -6,8 +6,7 @@
     <li>🛠️ Formação técnica em Mecatrônica, com base em lógica de programação.</li>
     <li>💻 Experiência com manutenção e melhorias em sites WordPress.</li>
     <li>🔁 Estudando automações com n8n e integração com ferramentas de IA.</li>
-    <li>📘 Sempre aprendendo novas linguagens, ferramentas e boas práticas.</li>
-    <li>💡 Curioso, dedicado e motivado por desafios práticos.</li>
+    <li>💡 Sempre aprendendo novas linguagens, ferramentas e boas práticas.</li>
   </ul>
 
 <div align="center">
