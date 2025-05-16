@@ -1,4 +1,7 @@
-## Hi there 👋
+# 👩🏻‍💻 Igor Vidal
+
+Atualmente, estou cursando Engenharia de Software pela Unicesumar. Tenho mais de dois anos de experiência em estudos de programação, além de uma formação técnica em mecatrônica, onde tive o primeiro contato com lógica de programação, o que despertou meu entusiasmo pela área. Desde então, venho ampliando meus conhecimentos em diferentes áreas da computação, explorando novas ferramentas, linguagens e conceitos que envolvem tanto o desenvolvimento de sistemas quanto a análise e o processamento de dados.
+Atualmente, estou em busca de uma oportunidade de estágio para aplicar meus conhecimentos, adquirir experiência prática e contribuir ativamente para projetos de desenvolvimento e inovação.
 
 <div align="center">
   <a href="https://github.com/iigorvidall">
