@@ -28,8 +28,6 @@
   <img align="center" alt="igor-postgresql" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" />
       <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" /> 
 </div>
-<br/>
-<br/>
 
 ### 📊 Estatísticas
 
