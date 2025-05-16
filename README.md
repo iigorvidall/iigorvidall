@@ -26,7 +26,11 @@
   <img align="center" alt="igor-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="igor-PY" height="45" width="50" src="https://user-images.githubusercontent.com/87623017/232349391-6e45b28d-8491-49e9-b7aa-526f6da048cf.png">
   <img align="center" alt="igor-postgresql" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" />
-      <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" /> 
+  <img align="center" alt="igor-wordpress" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg" />
+<img align="center" alt="igor-n8n" height="45" width="45" src="https://avatars.githubusercontent.com/u/45487711?s=48&v=4" />
+
+
+  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" /> 
 </div>
 
 ### 📊 Estatísticas
