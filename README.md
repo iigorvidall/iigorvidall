@@ -6,6 +6,16 @@
   <img height="180em" width ="390em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iigorvidall&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 
+ <div style="display: inline_block"><br>
+  <img align="center" alt="igor-HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="igor-CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="igor-JS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="igor-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="igor-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="igor-PY" height="45" width="50" src="https://user-images.githubusercontent.com/87623017/232349391-6e45b28d-8491-49e9-b7aa-526f6da048cf.png">
+  <img align="center" alt="igor-postgresql" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" />
+</div>
+
 <!--
 **iigorvidall/iigorvidall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
